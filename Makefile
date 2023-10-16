@@ -8,5 +8,8 @@ test:
 flake8:
 	flake8 -v
 
+start:
+	python src/main.py
+
 
 all: install flake8 test
