@@ -6,3 +6,12 @@ __pycache__/
 # Unit test / coverage reports
 .pytest_cache/
 .coverage
+
+# Python virtual environment
+.venv
+
+# macOS
+.DS_Store
+
+# Output files
+output
